@@ -33,7 +33,7 @@
 
 ## 4. Membership and Roles
 
-Participation is open to any OSAIA member. See the [OSAIA WG Formation and Governance Policy](https://github.com/osaia/governance/blob/main/process/wg-formation.md) for full membership rules.
+Participation is open to any OSAIA member. See the [OSAIA WG Formation and Governance Policy](https://github.com/OpenSecureAIAlliance/governance/blob/main/process/wg-formation.md) for full membership rules.
 
 | Role | Description |
 |---|---|
@@ -52,12 +52,12 @@ Participation is open to any OSAIA member. See the [OSAIA WG Formation and Gover
 
 ## 5. Governance
 
-This Working Group operates under the [OSAIA Working Group Formation and Governance Policy](https://github.com/osaia/governance/blob/main/process/wg-formation.md) and reports to the OSAIA Steering Committee.
+This Working Group operates under the [OSAIA Working Group Formation and Governance Policy](https://github.com/OpenSecureAIAlliance/governance/blob/main/process/wg-formation.md) and reports to the OSAIA Steering Committee.
 
 Key provisions:
-- **Leadership terms:** 6 months, renewable; elected by ⅔ of Working Group members
-- **Operational changes:** Chair and Co-chair may propose with notice; ⅔ member vote required if contested
-- **Charter changes:** Require Steering Committee approval
+- **Leadership terms:** 1 year, renewable with no term limit; elected by plurality vote of Working Group members
+- **Operational changes:** Chair and Co-chair may propose with notice; if a concern is raised, the Chair and Co-chair facilitate discussion to resolve it
+- **Charter changes:** Accepted by a Steering Committee representative or escalated to a full Steering Committee vote
 - **Voting:** One vote per member organization
 
 ### Meetings
@@ -72,11 +72,11 @@ Key provisions:
 | Channel | Purpose |
 |---|---|
 | Slack `#wg-WGNAME` | Day-to-day async discussion |
-| `wg-WGNAME@osaia.org` | Formal notices, meeting notes, voting |
+| `wg-WGNAME@secureaialliance.org` | Formal notices, meeting notes, voting |
 | GitHub Issues / Discussions | Proposals and tracked work |
 
 ---
 
 ## 6. Amendments
 
-Charter changes require Steering Committee approval per Section 7 of the [OSAIA WG Formation and Governance Policy](https://github.com/osaia/governance/blob/main/process/wg-formation.md).
+Charter changes require Steering Committee approval per Section 7 of the [OSAIA WG Formation and Governance Policy](https://github.com/OpenSecureAIAlliance/governance/blob/main/process/wg-formation.md).
