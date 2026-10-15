@@ -1,6 +1,6 @@
 # [WG Name] — Members
 
-To become a Contributor, attend two consecutive WG meetings or have a PR merged, then open a PR adding yourself here. See [CHARTER.md](./CHARTER.md) for the full membership policy.
+Any OSAIA member may join. To join, open a PR adding yourself here. See [CONTRIBUTING.md](./CONTRIBUTING.md) and [CHARTER.md](./CHARTER.md) for details.
 
 ---
 

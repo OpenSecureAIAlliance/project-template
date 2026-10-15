@@ -19,7 +19,7 @@ This repository is a **GitHub template** for creating new Open Secure AI Allianc
    | `[Name]` / `@[handle]` | Chair and Co-Chair details |
    | `[TODO: ...]` | Your actual content |
 
-5. Update `LICENSE` — delete the licenses that don't apply (see the Intellectual Property section in `README.md`)
+5. Keep both license files — `LICENSE` (Apache-2.0) covers code and `LICENSE-docs` (CC-BY-4.0) covers everything else (see the License section in `README.md`)
 6. Delete this file (`TEMPLATE-INSTRUCTIONS.md`) before your first commit
 7. Open a PR in [`OpenSecureAIAlliance/governance`](https://github.com/OpenSecureAIAlliance/governance) to add the new WG to the README table
 
@@ -35,7 +35,8 @@ This repository is a **GitHub template** for creating new Open Secure AI Allianc
 | `CODE_OF_CONDUCT.md` | Points to the central OSAIA CoC |
 | `MEMBERS.md` | Tracks leadership and contributors |
 | `SECURITY.md` | Security vulnerability reporting policy |
-| `LICENSE` | Apache 2.0 (update if needed) |
+| `LICENSE` | Apache-2.0, for code |
+| `LICENSE-docs` | CC-BY-4.0, for documentation and all other content |
 | `meetings/README.md` | Placeholder for meeting notes |
 | `.github/PULL_REQUEST_TEMPLATE.md` | PR checklist |
 | `.github/ISSUE_TEMPLATE/proposal.md` | Issue template for proposals |

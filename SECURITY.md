@@ -10,7 +10,7 @@ It does **not** cover vulnerabilities in AI systems or third-party tools *refere
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Email *(security contact coming soon)* with:
+Email [security@secureaialliance.org](mailto:security@secureaialliance.org) with:
 
 1. **Description** — a clear explanation of the vulnerability
 2. **Impact** — what could an attacker do?
